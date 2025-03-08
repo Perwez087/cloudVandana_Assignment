@@ -64,4 +64,4 @@ Open the `index.html` file in a web browser to view the profile card.
 ![Card Output](Large-device.png)
 
 ##### Mobile Device
-![Card Output](mobile-device.png)
+![Card Output](Mobile-device.png)
