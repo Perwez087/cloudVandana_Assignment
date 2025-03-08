@@ -58,10 +58,10 @@ This HTML file displays a profile card with a profile picture, name, designation
 
 Open the `index.html` file in a web browser to view the profile card.
 
-### Example
-
-![Profile Card](https://media.licdn.com/dms/image/v2/D4D35AQHuY8aMci7-sg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1723521917421?e=1742047200&v=beta&t=MkX7maXP7dWa0lrdMrbVd-1xhc50PiKTsath87JWgcs)
-
 #### Card Output
 
-![Card Output](Large-device.png) (mobile-device.png)
+##### Large Device
+![Card Output](Large-device.png)
+
+##### Mobile Device
+![Card Output](mobile-device.png)
